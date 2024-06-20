@@ -1,0 +1,12 @@
+==
+other commands
+
+(set username and email)
+git config --global user.email email@mail.com
+git config --global user.name abc123
+
+(create new file)
+mkdir filename
+
+
+
