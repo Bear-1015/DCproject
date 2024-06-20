@@ -21,3 +21,5 @@ dvyahh: Sucessfully downloaded the repository
 JLe-Me: Added FigmaDraft.pdf
 
 Bear-1015: Added GitCommands.txt
+
+JLe-Me: Added Figma Folder with Draft.pdf
