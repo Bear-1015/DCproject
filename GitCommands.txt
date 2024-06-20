@@ -1,3 +1,32 @@
+(to download repository from GitHub)
+git clone https://github.com/Bear-1015/DCproject.git
+
+(to check the file)
+dir
+
+(to go to file directory)
+cd DCproject
+
+(see what is inside the file)
+dir
+
+(update logbook)
+nano Logbook.txt
+(then update the text)
+
+(select file)
+git add Logbook.txt
+
+(save changes as commit)
+git commit -m "Updated!"
+
+(push changes to GitHub)
+git push 
+
+(pull most recent from GitHub)
+git pull
+
+
 ==
 other commands
 
@@ -7,6 +36,3 @@ git config --global user.name abc123
 
 (create new file)
 mkdir filename
-
-
-
