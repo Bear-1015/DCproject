@@ -16,3 +16,5 @@ JLe-Me: Uploaded User Manual pdf
 
 Bear-1015: Deleted empty file damn.pdf
 
+dvyahh: Sucessfully downloaded the repository
+
