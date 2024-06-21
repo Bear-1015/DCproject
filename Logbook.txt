@@ -25,3 +25,4 @@ Bear-1015: Added GitCommands.txt
 JLe-Me: Added Figma Folder with Draft.pdf
 
 maddiejellyfish: Successfully downloaded the repository
+
