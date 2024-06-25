@@ -28,3 +28,4 @@ maddiejellyfish: Successfully downloaded the repository
 
 Bear-1015: Created New Branch figmaPDF
 
+Bear-1015: Added all Figma images to Figma folder in figmaPDF branch
