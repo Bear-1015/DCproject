@@ -26,3 +26,5 @@ JLe-Me: Added Figma Folder with Draft.pdf
 
 maddiejellyfish: Successfully downloaded the repository
 
+Bear-1015: Created New Branch figmaPDF
+
